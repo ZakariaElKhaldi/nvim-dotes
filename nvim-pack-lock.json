@@ -1,0 +1,32 @@
+{
+  "plugins": {
+    "ayu-vim": {
+      "rev": "01faacb4cb76e8cf72ad9858c581d80876260ab3",
+      "src": "https://github.com/ayu-theme/ayu-vim.git"
+    },
+    "colorbuddy.nvim": {
+      "rev": "8b968581e5c19d22a861d5f3fe5dbd83394fa681",
+      "src": "https://github.com/tjdevries/colorbuddy.nvim.git"
+    },
+    "mason.nvim": {
+      "rev": "bb639d4bf385a4d89f478b83af4d770be05ab7eb",
+      "src": "https://github.com/mason-org/mason.nvim.git"
+    },
+    "nvim-lspconfig": {
+      "rev": "a4ed4e761c400849e8c9f8bda33e5083f890268c",
+      "src": "https://github.com/neovim/nvim-lspconfig.git"
+    },
+    "srcery-vim": {
+      "rev": "b6cfbe90d6506fbdfe525d35787b487a9a6febb9",
+      "src": "https://github.com/srcery-colors/srcery-vim.git"
+    },
+    "telescope.nvim": {
+      "rev": "7d324792b7943e4aa16ad007212e6acc6f9fe335",
+      "src": "https://github.com/nvim-telescope/telescope.nvim.git"
+    },
+    "vesper.nvim": {
+      "rev": "1717b1ad657c94bec3fc2bdebb0c55452d9fe46d",
+      "src": "https://github.com/datsfilipe/vesper.nvim.git"
+    }
+  }
+}
