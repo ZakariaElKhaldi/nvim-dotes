@@ -17,7 +17,7 @@ vim.pack.add({
 	'https://github.com/nvim-telescope/telescope-fzf-native.nvim',
 })
 
-require('telescope').setup{}
+require('telescope').setup {}
 require('mini.files').setup()
 
 local builtin = require('telescope.builtin')
@@ -37,7 +37,7 @@ vim.o.cursorline = true
 vim.o.clipboard = 'unnamedplus'
 vim.o.ignorecase = true
 vim.o.smartcase = true
-
+vim.o.scrolloff = 16
 --vim.cmd.colorscheme('srcery')
 --vim.cmd.colorscheme("colorbuddy")
 --vim.cmd.colorscheme('vesper')
