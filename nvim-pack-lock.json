@@ -4,9 +4,22 @@
       "rev": "01faacb4cb76e8cf72ad9858c581d80876260ab3",
       "src": "https://github.com/ayu-theme/ayu-vim.git"
     },
+    "blink.cmp": {
+      "rev": "78336bc89ee5365633bcf754d93df01678b5c08f",
+      "src": "https://github.com/saghen/blink.cmp",
+      "version": "1.0.0 - 2.0.0"
+    },
     "colorbuddy.nvim": {
       "rev": "8b968581e5c19d22a861d5f3fe5dbd83394fa681",
       "src": "https://github.com/tjdevries/colorbuddy.nvim.git"
+    },
+    "gitsigns.nvim": {
+      "rev": "eb60cc7b94c46005237fd34170d76f3a089a90aa",
+      "src": "https://github.com/lewis6991/gitsigns.nvim"
+    },
+    "mason-lspconfig.nvim": {
+      "rev": "21c5b3ebeaa0412e28096bb0701434c51c1fbf76",
+      "src": "https://github.com/mason-org/mason-lspconfig.nvim.git"
     },
     "mason.nvim": {
       "rev": "bb639d4bf385a4d89f478b83af4d770be05ab7eb",
@@ -20,6 +33,10 @@
       "rev": "232ceeb14f7f7e849056309b85cb2fed712db46f",
       "src": "https://github.com/nvim-mini/mini.nvim"
     },
+    "nvim-autopairs": {
+      "rev": "7b9923abad60b903ece7c52940e1321d39eccc79",
+      "src": "https://github.com/windwp/nvim-autopairs"
+    },
     "nvim-lspconfig": {
       "rev": "a4ed4e761c400849e8c9f8bda33e5083f890268c",
       "src": "https://github.com/neovim/nvim-lspconfig.git"
@@ -31,6 +48,10 @@
     "nvim-web-devicons": {
       "rev": "dfbfaa967a6f7ec50789bead7ef87e336c1fa63c",
       "src": "https://github.com/nvim-tree/nvim-web-devicons"
+    },
+    "oil.nvim": {
+      "rev": "b73018b75affd13fa38e2fc94ef753b465f770d7",
+      "src": "https://github.com/stevearc/oil.nvim"
     },
     "plenary.nvim": {
       "rev": "74b06c6c75e4eeb3108ec01852001636d85a932b",
@@ -60,9 +81,17 @@
       "rev": "7d324792b7943e4aa16ad007212e6acc6f9fe335",
       "src": "https://github.com/nvim-telescope/telescope.nvim.git"
     },
+    "todo-comments.nvim": {
+      "rev": "31e3c38ce9b29781e4422fc0322eb0a21f4e8668",
+      "src": "https://github.com/folke/todo-comments.nvim"
+    },
     "vesper.nvim": {
       "rev": "1717b1ad657c94bec3fc2bdebb0c55452d9fe46d",
       "src": "https://github.com/datsfilipe/vesper.nvim.git"
+    },
+    "which-key.nvim": {
+      "rev": "3aab2147e74890957785941f0c1ad87d0a44c15a",
+      "src": "https://github.com/folke/which-key.nvim"
     }
   }
 }
